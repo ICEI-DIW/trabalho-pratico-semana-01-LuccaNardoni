@@ -7,7 +7,9 @@ Nome: Lucca Nardoni Ribeiro
 Matricula: 888745
 
 ## Tela de inspeção com navegador
-C:\Users\Luquete\trabalho-pratico-semana-01-LuccaNardoni\print navegador.png
+![image](https://github.com/user-attachments/assets/278c3c5e-24fc-47d8-86e1-59a72f0ebbb5)
+
 
 ## Tela de projeto no Replit
-C:\Users\Luquete\trabalho-pratico-semana-01-LuccaNardoni\replit.png
+![image](https://github.com/user-attachments/assets/fbf9a00c-44ba-47a7-be43-29246e3a1955)
+
