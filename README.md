@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Lucca Nardoni Ribeiro
+Matricula: 888745
 
 ## Tela de inspeção com navegador
-
+C:\Users\Luquete\trabalho-pratico-semana-01-LuccaNardoni\print navegador.png
 
 ## Tela de projeto no Replit
-
+C:\Users\Luquete\trabalho-pratico-semana-01-LuccaNardoni\replit.png
